@@ -8,19 +8,19 @@
 |------------|--------------|--------------------------|
 | **Proxy**   | 公益加速 | https://gh-proxy.com/        |
 | **Proxy**   | 公益加速 | https://github.akams.cn/        |
-||||
+|| 
 | **DIYP**   | TXT源 | https://github.com/lnitv/210/raw/refs/heads/main/1.txt         |
 | **DIYP**   | TXT加速源① | https://gh-proxy.org/https://raw.githubusercontent.com/lnitv/210/refs/heads/main/1.txt         |
 | **DIYP**   | TXT加速源② | https://cdn.jsdelivr.net/gh/lnitv/210/1.txt         |
-||||
+|| 
 | **M3U8**   | M3U源   | https://github.com/lnitv/210/raw/refs/heads/main/2.txt         |
 | **M3U8**   | M3U加速源①   | https://gh-proxy.org/https://raw.githubusercontent.com/lnitv/210/refs/heads/main/2.txt         |
 | **M3U8**   | M3U加速源②   | https://cdn.jsdelivr.net/gh/lnitv/210/2.txt         |
-||||
+|| 
 | **LIVE**   | TXT源       | https://github.com/lnitv/210/raw/refs/heads/main/3.txt         |
 | **LIVE**   | LIVE加速源①       | https://gh-proxy.org/https://raw.githubusercontent.com/lnitv/210/refs/heads/main/3.txt         |
 | **LIVE**   | LIVE加速源②       | https://cdn.jsdelivr.net/gh/lnitv/210/3.txt         |
-||||
+|| 
 | **EPG**    | ERW镜像     | https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz        |
 
 
